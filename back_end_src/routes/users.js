@@ -9,20 +9,14 @@ router.get('/', function(req, res, next) {
 var mysql = require("mysql");
 
 var client = mysql.createConnection({
-  host: "nodejs-006.cafe24.com",
-  port: 3306,
-  user: "yeonsiwoo2",
-  password: "hyomin2332@",
-  database: "yeonsiwoo2"
+  host: "",
+  port: ,
+  user: "",
+  password: "",
+  database: ""
 });
 
-// const pool = mysql.createPool({
-//   host: "nodejs-006.cafe24.com",
-//   port: 3306,
-//   user: "yeonsiwoo2",
-//   password: "hyomin2332@",
-//   database: "yeonsiwoo2"
-// });
+
 
 /* GET users listing. */
 router.get('/testg', function(req, res, next) {
