@@ -5,7 +5,8 @@
 
 포트폴리오(구글ppt) : https://docs.google.com/presentation/d/1MhewJiJ8Pk6nK95OodbjFp_SPyAm5ZptBEFBsF7pQcI/edit?usp=sharing
 
-- 필독사항
+
+필독사항
 1. Web 프론트엔드 코드는 front_end_src에 있습니다.
 2. Web 백엔드 코드는 back_end_src에 있습니다.
 3. 안드로이드 작업 코드는 android에 있습니다. 
