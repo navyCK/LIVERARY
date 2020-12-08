@@ -13,7 +13,7 @@ var smtpTransport = nodemailer.createTransport({
     secure: false,
     auth: {
         user: "bigjoy222@naver.com",
-        pass: "rlfahs26523835@"
+        pass: ""
     }
 });
 
